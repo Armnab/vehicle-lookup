@@ -51,4 +51,4 @@ If you have any questions, feel free to reach out:
 
 ## Walkthrough Video
 
-Watch the walkthrough video demonstrating the project: [Walkthrough Video](undefined)
+Watch the walkthrough video demonstrating the project: [Walkthrough Video](https://drive.google.com/file/d/1okB3_mdkjkxI6M6CPXvTvIFYSYfgJlXj/view)
